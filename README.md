@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="file:///C:/Users/famil/Downloads/github-header-banner.png" alt="banner"/>
+  <img src="C:\Users\famil\Downloads\github-header-banner.png" alt="banner"/>
 </div>
 
 
