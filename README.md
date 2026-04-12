@@ -1,8 +1,8 @@
-<br clear="right">
+
 <p align="left">
   <img align="right" width="270" height="268" src="https://github.com/user-attachments/assets/f532a3ed-7939-4044-a0eb-626c1690d4b9" />
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=45&pause=900&color=97C997D3&width=700&height=50&lines=Hi%2C+I'm+Emyllen!+;Software+Engineering+Freshman+%F0%9F%8E%93;Fighting+with+Git+%26+GitHub+%F0%9F%90%99;90%25+Caffeine%2C+10%25+Buggy+Code+%E2%98%95)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=45&pause=900&color=97C997D3&width=700&height=70&lines=Hi%2C+I'm+Emyllen!+;Software+Engineering+Freshman+%F0%9F%8E%93;Fighting+with+Git+%26+GitHub+%F0%9F%90%99;90%25+Caffeine%2C+10%25+Buggy+Code+%E2%98%95)](https://git.io/typing-svg)
 </p>
 
 <br clear="right">
