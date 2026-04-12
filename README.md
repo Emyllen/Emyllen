@@ -45,23 +45,14 @@
   
 ###
 <h3 align="center">Connect with me:</h3>
-<div align="center">
-    <!-- Instagram -->
-    <a href="https://www.instagram.com/emyllenbeyer" target="_blank">
-        <img src="https://shields.io" height="25" alt="instagram logo">
-    </a>
-    <!-- LinkedIn -->
-    <a href="https://www.linkedin.com/in/emyllen-beyer/" target="_blank">
-        <img src="https://shields.io" height="25" alt="linkedin logo">
-    </a>
-    <!-- Gmail -->
-    <a href="mailto:emyllenbeyerdesouza@gmail.com" target="_blank">
-        <img src="https://shields.io" height="25" alt="gmail logo">
-    </a>
-</div>
+
+  [![Instagram Badge](https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emyllenbeyer)
+  [![LinkedIn Badge](https://shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emyllen-beyer/)
+  [![Gmail Badge](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emyllenbeyerdesouza@gmail.com)
+
+<hr>
 
 ###
-
  
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=35&duration=4000&pause=1000&color=97C997D3&background=FFD2A600&width=500&height=55&lines=Thanks+for+visiting!;and..;+Look+for+the+light+%E0%BD%B2%E1%96%AD%E0%BC%8F%E1%96%AB%E0%BE%80)](https://git.io/typing-svg)
 
