@@ -56,8 +56,3 @@
  
    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&size=35&duration=4000&pause=1000&color=97C997D3&background=FFD2A600&width=500&height=55&lines=Thanks+for+visiting!;and..;+Look+for+the+light+%E0%BD%B2%E1%96%AD%E0%BC%8F%E1%96%AB%E0%BE%80)](https://git.io/typing-svg)
 
-
-
-
-
-
