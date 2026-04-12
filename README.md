@@ -46,12 +46,15 @@
 ###
 <h3 align="center">Connect with me:</h3>
 <div align="center">
+    <!-- Instagram -->
     <a href="https://www.instagram.com/emyllenbeyer" target="_blank">
         <img src="https://shields.io" height="25" alt="instagram logo">
     </a>
+    <!-- LinkedIn -->
     <a href="https://www.linkedin.com/in/emyllen-beyer/" target="_blank">
         <img src="https://shields.io" height="25" alt="linkedin logo">
     </a>
+    <!-- Gmail -->
     <a href="mailto:emyllenbeyerdesouza@gmail.com" target="_blank">
         <img src="https://shields.io" height="25" alt="gmail logo">
     </a>
