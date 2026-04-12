@@ -2,6 +2,7 @@
 <div align="center">
   <img width="1420" height="575" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/f2a0647e-7036-41e3-bf7c-bde841eaf491" />
 </div>
+<img width="250" height="248" alt="7e15b6e7-ddb1-4da0-b1b3-322acfad212d-removebg-preview" src="https://github.com/user-attachments/assets/f532a3ed-7939-4044-a0eb-626c1690d4b9" />
 
 ###
 
