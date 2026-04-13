@@ -10,9 +10,9 @@
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 <pre>
-🌿 System Status: Surviving and Thriving
+🌿 System Status: Surviving
   𐙚 Profile: 19yo Software Engineering student from Brazil 🇧🇷
-  𝔁 Current Quest: Mastering Logic & Mathematics (the core of everything)
+  𝔁 Current Quest: Mastering Logic & Mathematics
   ⟳ Interests: Solving complex puzzles and learning how systems work
   𖤐 Currently exploring: The world of Software Architecture
   ☕︎ Essential: Powered by strong coffee and a good playlist
